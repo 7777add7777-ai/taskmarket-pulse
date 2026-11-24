@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#12100e"/>
+  <circle cx="140" cy="140" r="42" fill="none" stroke="#d9a097" stroke-width="6"/>
+  <path d="M140 116v24l18 12" stroke="#efe9e2" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <text x="100" y="310" fill="#efe9e2" font-family="Georgia, serif" font-size="84" font-weight="400">TaskMarket Pulse</text>
+  <text x="100" y="385" fill="#d9a097" font-family="sans-serif" font-size="34">Live public market dashboard — tasks, activity and flow</text>
+  <text x="100" y="540" fill="#8c8279" font-family="sans-serif" font-size="24">api.taskmarket.dev · Updated hourly · Open source (MIT)</text>
+</svg>
